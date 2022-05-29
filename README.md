@@ -11,7 +11,7 @@ Open in localhost
 Credentials->
 
 SuperUser
-           username: test
-           password: 1
+           username: test,
+           password: 1,
            useremail: test@ex.com
            
