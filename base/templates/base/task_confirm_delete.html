@@ -1,5 +1,6 @@
-{% comment %} {% extends 'base/main.html' %} {% endcomment %}
+{% extends 'base/main.html' %}
 {% block content %}
+
 
 <div class="header-bar">
     <a href="{% url 'tasks' %}">&#8592; Go Back</a>
@@ -12,7 +13,6 @@
         <input class="button" type="submit" value="Delete" />
     </form>
 </div>
-
 
 
 {% endblock content %}
