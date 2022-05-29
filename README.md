@@ -1,13 +1,15 @@
 # django_todo_list
 
-clone it
+Clone it
 
-python manage.py runserver
+Run cmd: python manage.py runserver
 
-open in localhost
+Open in localhost
+
+Credentials->
 
 SuperUser
-username: test
-password: 1
-useremail: test@ex.com
+           username: test
+           password: 1
+           useremail: test@ex.com
            
